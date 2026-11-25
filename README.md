@@ -115,6 +115,14 @@ Para avaliar a eficiência do processo na operação, o acompanhamento é feito 
 - Documentar requisitos, etapas e riscos desde o início garante previsibilidade na execução e facilita a evolução contínua do processo.
 
 ---
+## 📂 Estrutura do Repositório
+
+```text
+gestao-chamados-ti/
+├── README.md
+└── docs/
+    ├── backlog-implantacao.md
+    └── checklist-implantacao.md
 
 ## 👩‍💻 Autora
 
